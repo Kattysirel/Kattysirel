@@ -28,19 +28,20 @@
 
 Fourth-semester Systems Engineering student at Universidad Internacional del Ecuador (UIDE), focused on frontend development and web design. I possess a solid technical foundation in programming, network infrastructure, and virtualization, combined with strong analytical skills to solve complex problems under high-pressure competitive environments. <!--[cite: 3] -->
 
-<!-- Pink Divider -->
+<!-- Pink Divider Framing the Skills Section -->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=3&section=header" width="100%" /></p>
 
 ### Technical Specializations
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,go,java,linux,aws,mysql,git,github&theme=dark&perline=12" />
+    <!-- Iconos escalados a una altura de 65px para mayor impacto visual -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,go,java,linux,aws,mysql,git,github&theme=dark&perline=12" height="65" />
   </a>
 </p>
 
-<!-- Pink Divider -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=3&section=header" width="100%" /></p>
+<!-- Pink Divider Framing the Skills Section -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=3&section=header" width="100%" /></p>
 
 ### Skills Inventory
 
@@ -50,7 +51,7 @@ Fourth-semester Systems Engineering student at Universidad Internacional del Ecu
 * **Tools & Databases:** Git, GitHub, MySQL, SQLModel, AWS <!--[cite: 3] -->
 
 <!-- Pink Divider -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=3&section=header" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=3&section=header" width="100%" /></p>
 
 ### Education
 
@@ -58,7 +59,7 @@ Fourth-semester Systems Engineering student at Universidad Internacional del Ecu
 * *Bachelor of Science in Systems Engineering (4th Semester)* (2024 - Present) <!--[cite: 3] -->
 
 <!-- Pink Divider -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=3&section=header" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=3&section=header" width="100%" /></p>
 
 ### Project Experience
 
@@ -75,7 +76,7 @@ Fourth-semester Systems Engineering student at Universidad Internacional del Ecu
 * Conducted specialized vulnerability studies in XFS middleware for ATMs and evaluated intrusion detection systems (IDS) using Wazuh and Zeek. <!--[cite: 3] -->
 
 <!-- Pink Divider -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=3&section=header" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=3&section=header" width="100%" /></p>
 
 ### Certifications & Achievements
 
@@ -87,7 +88,7 @@ Fourth-semester Systems Engineering student at Universidad Internacional del Ecu
 * **Microsoft Active Directory:** Group Policy Objects Implementation (April 26, 2026) | Domain Controller Administration AD DS & FSMO Roles (April 26, 2026) | Introduction to AD DS (April 5, 2026). <!--[cite: 3] -->
 
 <!-- Pink Divider -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=3&section=header" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=3&section=header" width="100%" /></p>
 
 ### GitHub Stats
 
