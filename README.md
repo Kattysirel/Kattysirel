@@ -21,13 +21,19 @@
   <a href="https://instagram.com/imsrky_com"><img src="https://img.shields.io/badge/Instagram-DDA0DD?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
----
+<!-- Borde Divisor Rosita -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=4&width=1000&section=header" />
+</p>
 
 ### Professional Summary
 
 Passionate Frontend Developer and Systems Information Engineering student at UIDE. I specialize in designing and building beautiful, intuitive, and responsive web interfaces. With a strong technical background in network infrastructure and systems, I combine creative web design with the precision and logic of engineering to deliver complete technological solutions.
 
----
+<!-- Borde Divisor Rosita -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=4&width=1000&section=header" />
+</p>
 
 ### Technical Specializations
 
@@ -37,7 +43,10 @@ Passionate Frontend Developer and Systems Information Engineering student at UID
   </a>
 </p>
 
----
+<!-- Borde Divisor Rosita -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=4&width=1000&section=header" />
+</p>
 
 ### Education
 
@@ -49,7 +58,10 @@ Passionate Frontend Developer and Systems Information Engineering student at UID
 * Multiple certifications: AWS (Costs, VPC, IAM), Microsoft Active Directory, and Linux Essentials.
 * Advanced English proficiency (A2+ level in progress).
 
----
+<!-- Borde Divisor Rosita -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=4&width=1000&section=header" />
+</p>
 
 ### Professional Experience & Projects
 
@@ -61,7 +73,10 @@ Passionate Frontend Developer and Systems Information Engineering student at UID
 * Authored technical research on designing resilient architectures against ATM jackpotting.
 * Configured and evaluated network monitoring tools to implement Zero Trust environments.
 
----
+<!-- Borde Divisor Rosita -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=4&width=1000&section=header" />
+</p>
 
 ### Technical Proficiencies
 
@@ -70,7 +85,10 @@ Passionate Frontend Developer and Systems Information Engineering student at UID
 * **Systems & Networks:** Linux, Active Directory, Firewalls, Mikrotik routers.
 * **Cloud & Tools:** AWS, Git, GitHub.
 
----
+<!-- Borde Divisor Rosita -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=4&width=1000&section=header" />
+</p>
 
 ### GitHub Contributions
 
@@ -82,13 +100,17 @@ Passionate Frontend Developer and Systems Information Engineering student at UID
   </picture>
 </p>
 
----
+<!-- Borde Divisor Rosita -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=4&width=1000&section=header" />
+</p>
 
 ### GitHub Stats
 
+<!-- Tarjetas con borde rosita personalizado (border_color=ff69b4) -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kattysirel&show_icons=true&title_color=ff69b4&icon_color=ff1493&text_color=555555&bg_color=ffe4e1&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kattysirel&layout=compact&title_color=ff69b4&text_color=555555&bg_color=ffe4e1&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kattysirel&show_icons=true&title_color=ff69b4&icon_color=ff1493&text_color=555555&bg_color=ffe4e1&border_color=ff69b4&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kattysirel&layout=compact&title_color=ff69b4&text_color=555555&bg_color=ffe4e1&border_color=ff69b4" />
 </p>
 
 <br>
