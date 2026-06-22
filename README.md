@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffb6c1,ff69b4,ff1493&height=200&section=header&text=Hi,%20I'm%20Katty!&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Frontend Developer | Systems Engineering Student</h3> <!--[cite: 3] -->
+<h3 align="center">Frontend Developer | Systems Engineering Student</h3> <!-- -->
 
 <!-- Research & Professional Badges -->
 <p align="center">
@@ -35,7 +35,6 @@ Fourth-semester Systems Engineering student at Universidad Internacional del Ecu
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Iconos escalados a una altura de 65px para mayor impacto visual -->
     <img src="https://skillicons.dev/icons?i=html,css,js,react,python,go,java,linux,aws,mysql,git,github&theme=dark&perline=12" height="65" />
   </a>
 </p>
@@ -63,17 +62,23 @@ Fourth-semester Systems Engineering student at Universidad Internacional del Ecu
 
 ### Project Experience
 
-**PDF Automation App (Automatizador de PDFs)** <!--[cite: 3] -->
+**[PDF Automation App](https://github.com/Kattysirel/automatizador-de-PDFS)** <!--[cite: 3] -->
 * Developed a workflow automation application featuring bulk processing and manipulation of PDF files to optimize document management processes. <!--[cite: 3] -->
 
-**Full-Stack Multimedia Application** <!--[cite: 3] -->
+**[Full-Stack FastAPI Application](https://github.com/Kattysirel/FastAPI)** <!--[cite: 3] -->
 * Built a comprehensive web architecture utilizing SQLModel for data persistence and AWS S3 for secure, scalable file storage. <!--[cite: 3] -->
 
-**Redundant Infrastructure Implementation** <!--[cite: 3] -->
-* Configured high-availability environments (DC02), implemented network segmentation (VLANs), and optimized network protocols including OSPF, STP, and EtherChannel. <!--[cite: 3] -->
+**[Professional Portfolio Website](https://github.com/Kattysirel/Portafolio)** <!--[cite: 3] -->
+* Designed and deployed a responsive personal portfolio showcasing frontend capabilities, web layouts, and interactive design elements. <!--[cite: 3] -->
 
-**Academic Research & Technical Analysis** <!--[cite: 3] -->
-* Conducted specialized vulnerability studies in XFS middleware for ATMs and evaluated intrusion detection systems (IDS) using Wazuh and Zeek. <!--[cite: 3] -->
+**[Interactive Christmas Project](https://github.com/Kattysirel/cartas-navidad)**
+* Created a tailored frontend application optimized for web interfaces, utilizing custom styling and structured logical flows.
+
+**[Cybersecurity & Automation Scripts](https://github.com/Kattysirel)** <!--[cite: 3] -->
+* Developed custom technical tooling including validation scripts, an automated keylogger infrastructure, and network auditing tools (`bruteforce.py`). <!--[cite: 3] -->
+
+**[Academic Implementations & Evaluations](https://github.com/Kattysirel/Midterm)** <!--[cite: 3] -->
+* Curated data collections and logical solutions for mid-term evaluation checkpoints, focused on algorithm resolution and network simulation data. <!--[cite: 3] -->
 
 <!-- Pink Divider -->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=3&section=header" width="100%" /></p>
