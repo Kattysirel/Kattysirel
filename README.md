@@ -10,7 +10,7 @@ Estudiante de cuarto semestre de Ingeniería de Sistemas en la Universidad Inter
 
 ---
 
-## 🛠 Habilidades Técnicas
+## Habilidades Técnicas
 
 ### Stack Tecnológico
 ![Skill Icons](https://skillicons.dev/icons?i=html,css,js,react,python,java,mysql,aws,linux,github)
@@ -22,7 +22,7 @@ Estudiante de cuarto semestre de Ingeniería de Sistemas en la Universidad Inter
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 - **Automatizador de PDFs**: Aplicación para la automatización de flujos de trabajo mediante la manipulación y procesamiento masivo de archivos PDF[cite: 1].
 - **Aplicación Multimedia Full-Stack**: Arquitectura web integral utilizando SQLModel para persistencia de datos y AWS S3 para escalabilidad de archivos[cite: 1].
@@ -32,7 +32,7 @@ Estudiante de cuarto semestre de Ingeniería de Sistemas en la Universidad Inter
 
 ---
 
-## 🎓 Formación y Certificaciones
+## Formación y Certificaciones
 
 **Formación Académica**
 - Universidad Internacional del Ecuador (UIDE) - Ingeniería en Sistemas, 4to semestre[cite: 1].
@@ -43,12 +43,12 @@ Estudiante de cuarto semestre de Ingeniería de Sistemas en la Universidad Inter
 
 ---
 
-## 📊 Estadísticas
+## Estadísticas
 ![Status](https://img.shields.io/badge/Estado-Activa-brightgreen)
 ![Coding](https://img.shields.io/badge/Especialidad-Frontend-blue)
 
 <details>
-  <summary><b>Ver estadísticas de GitHub</b> ⚡</summary>
+  <summary><b>Ver estadísticas de GitHub</b> </summary>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kattysirel&show_icons=true&theme=dark" />
 </details>
