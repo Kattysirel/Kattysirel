@@ -3,114 +3,97 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffb6c1,ff69b4,ff1493&height=200&section=header&text=Hi,%20I'm%20Katty!&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Frontend Developer | UI/UX Enthusiast</h3>
+<h3 align="center">Frontend Developer | Systems Engineering Student</h3> <!--[cite: 3] -->
 
 <!-- Research & Professional Badges -->
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/ORCID-FFB6C1?style=for-the-badge&logo=orcid&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Google_Scholar-FF69B4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Google_Patents-FF1493?style=for-the-badge&logo=google&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/Katty-Sirel-Yautibug-Quishpe"><img src="https://img.shields.io/badge/LinkedIn-DB7093?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Katty-Sirel-Yautibug-Quishpe"><img src="https://img.shields.io/badge/LinkedIn-DB7093?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <!--[cite: 3] -->
 </p>
 
 <!-- Contact Badges -->
 <p align="center">
-  <a href="https://github.com/Kattysirel"><img src="https://img.shields.io/badge/GitHub-C71585?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:kattysirel@gmail.com"><img src="https://img.shields.io/badge/Email-E6A8D7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/593999203990"><img src="https://img.shields.io/badge/WhatsApp-D8BFD8?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://github.com/Kattysirel"><img src="https://img.shields.io/badge/GitHub-C71585?style=for-the-badge&logo=github&logoColor=white" /></a> <!--[cite: 3] -->
+  <a href="mailto:kayautibugqu@uide.edu.ec"><img src="https://img.shields.io/badge/Email-E6A8D7?style=for-the-badge&logo=gmail&logoColor=white" /></a> <!--[cite: 3] -->
+  <a href="https://wa.me/593999203990"><img src="https://img.shields.io/badge/WhatsApp-D8BFD8?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <!--[cite: 3] -->
   <a href="https://instagram.com/imsrky_com"><img src="https://img.shields.io/badge/Instagram-DDA0DD?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<!-- Borde Divisor Rosita -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=4&width=1000&section=header" />
-</p>
+<!-- Pink Divider -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=3&section=header" width="100%" /></p>
 
 ### Professional Summary
 
-Passionate Frontend Developer and Systems Information Engineering student at UIDE. I specialize in designing and building beautiful, intuitive, and responsive web interfaces. With a strong technical background in network infrastructure and systems, I combine creative web design with the precision and logic of engineering to deliver complete technological solutions.
+Fourth-semester Systems Engineering student at Universidad Internacional del Ecuador (UIDE), focused on frontend development and web design. I possess a solid technical foundation in programming, network infrastructure, and virtualization, combined with strong analytical skills to solve complex problems under high-pressure competitive environments. <!--[cite: 3] -->
 
-<!-- Borde Divisor Rosita -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=4&width=1000&section=header" />
-</p>
+<!-- Pink Divider -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=3&section=header" width="100%" /></p>
 
 ### Technical Specializations
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,linux,aws,mysql,git,github,figma&theme=light&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,go,java,linux,aws,mysql,git,github&theme=dark&perline=12" />
   </a>
 </p>
 
-<!-- Borde Divisor Rosita -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=4&width=1000&section=header" />
-</p>
+<!-- Pink Divider -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=3&section=header" width="100%" /></p>
+
+### Skills Inventory
+
+* **Frontend:** HTML5, CSS3, JavaScript, React <!--[cite: 3] -->
+* **Languages:** Python, Go, Java <!--[cite: 3] -->
+* **Systems & Networks:** Active Directory (AD DS), Firewalls, Linux, Mikrotik (RouterOS), Cisco Networks <!--[cite: 3] -->
+* **Tools & Databases:** Git, GitHub, MySQL, SQLModel, AWS <!--[cite: 3] -->
+
+<!-- Pink Divider -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=3&section=header" width="100%" /></p>
 
 ### Education
 
-**International University of Ecuador (UIDE)**
-*Bachelor of Science in Computer Systems Engineering (3rd Semester)*
+**Universidad Internacional del Ecuador (UIDE)** <!--[cite: 3] -->
+* *Bachelor of Science in Systems Engineering (4th Semester)* (2024 - Present) <!--[cite: 3] -->
 
-**Key Academic Highlights:**
-* Global competitor in the IEEEXtreme 19.0 programming hackathon (24-hour challenge).
-* Multiple certifications: AWS (Costs, VPC, IAM), Microsoft Active Directory, and Linux Essentials.
-* Advanced English proficiency (A2+ level in progress).
+<!-- Pink Divider -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=3&section=header" width="100%" /></p>
 
-<!-- Borde Divisor Rosita -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=4&width=1000&section=header" />
-</p>
+### Project Experience
 
-### Professional Experience & Projects
+**PDF Automation App (Automatizador de PDFs)** <!--[cite: 3] -->
+* Developed a workflow automation application featuring bulk processing and manipulation of PDF files to optimize document management processes. <!--[cite: 3] -->
 
-**Lead Developer | Corporate PDF Automation App**
-* Designed and developed a commercial application for a foreign trade company.
-* Automated massive document workflows and data extraction processes, significantly optimizing client reporting times.
+**Full-Stack Multimedia Application** <!--[cite: 3] -->
+* Built a comprehensive web architecture utilizing SQLModel for data persistence and AWS S3 for secure, scalable file storage. <!--[cite: 3] -->
 
-**Security Researcher | Active Immunity System (Zeek IDS)**
-* Authored technical research on designing resilient architectures against ATM jackpotting.
-* Configured and evaluated network monitoring tools to implement Zero Trust environments.
+**Redundant Infrastructure Implementation** <!--[cite: 3] -->
+* Configured high-availability environments (DC02), implemented network segmentation (VLANs), and optimized network protocols including OSPF, STP, and EtherChannel. <!--[cite: 3] -->
 
-<!-- Borde Divisor Rosita -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=4&width=1000&section=header" />
-</p>
+**Academic Research & Technical Analysis** <!--[cite: 3] -->
+* Conducted specialized vulnerability studies in XFS middleware for ATMs and evaluated intrusion detection systems (IDS) using Wazuh and Zeek. <!--[cite: 3] -->
 
-### Technical Proficiencies
+<!-- Pink Divider -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=3&section=header" width="100%" /></p>
 
-* **Frontend & Design:** HTML5, CSS3, JavaScript, React, UI/UX Principles.
-* **Backend & Languages:** Python, Java, SQL.
-* **Systems & Networks:** Linux, Active Directory, Firewalls, Mikrotik routers.
-* **Cloud & Tools:** AWS, Git, GitHub.
+### Certifications & Achievements
 
-<!-- Borde Divisor Rosita -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffb6c1&height=4&width=1000&section=header" />
-</p>
+* **IEEEXtreme 19.0 Hackathon:** Competed in the global 24-hour programming challenge, solving complex algorithmic problems (November 5, 2025). <!--[cite: 3] -->
+* **Web Development:** CSS Essentials (May 1, 2026) | HTML Essentials (April 30, 2026). <!--[cite: 3] -->
+* **Programming:** Python Essentials 1 (November 26, 2024). <!--[cite: 3] -->
+* **Systems & Infrastructure:** Linux Essentials (June 16, 2025). <!--[cite: 3] -->
+* **AWS Cloud:** Costs Certification (April 29, 2026) | VPC Certification (April 12, 2026) | IAM Certification (March 26, 2026). <!--[cite: 3] -->
+* **Microsoft Active Directory:** Group Policy Objects Implementation (April 26, 2026) | Domain Controller Administration AD DS & FSMO Roles (April 26, 2026) | Introduction to AD DS (April 5, 2026). <!--[cite: 3] -->
 
-### GitHub Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kattysirel/Kattysirel/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kattysirel/Kattysirel/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kattysirel/Kattysirel/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<!-- Borde Divisor Rosita -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=4&width=1000&section=header" />
-</p>
+<!-- Pink Divider -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=3&section=header" width="100%" /></p>
 
 ### GitHub Stats
 
-<!-- Tarjetas con borde rosita personalizado (border_color=ff69b4) -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kattysirel&show_icons=true&title_color=ff69b4&icon_color=ff1493&text_color=555555&bg_color=ffe4e1&border_color=ff69b4&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kattysirel&layout=compact&title_color=ff69b4&text_color=555555&bg_color=ffe4e1&border_color=ff69b4" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kattysirel&show_icons=true&title_color=ff69b4&icon_color=ff1493&text_color=c9d1d9&bg_color=0d1117&border_color=ff69b4&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kattysirel&layout=compact&title_color=ff69b4&text_color=c9d1d9&bg_color=0d1117&border_color=ff69b4" />
 </p>
 
 <br>
