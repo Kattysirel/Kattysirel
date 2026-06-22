@@ -1,104 +1,86 @@
-<h2 align="center">Hello, I'm Katty Yautibug (Kattysirel)</h2>
-
-<!-- AQUÍ VA TU BANNER (Reemplaza el link por tu propia imagen de cabecera) -->
+<!-- Banner animado y lindo -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250/000000/FFFFFF/?text=Katty+Yautibug+-+Frontend+Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffb6c1,ff69b4,ff1493&height=250&section=header&text=Hi,%20I'm%20Katty!%20%E2%9C%A8&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20UI/UX%20Enthusiast&descSize=20&descColor=ffffff" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kattysirel"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:kayautibugqu@uide.edu.ec"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kattysirel&label=VISITAS+AL+PERFIL&color=orange&style=flat-square" />
+  <a href="mailto:kayautibugqu@uide.edu.ec"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Kattysirel"><img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-<h4 align="center">Frontend Developer | Systems Engineering Student</h4>
+### 🌸 Professional Summary
 
-### Professional Summary
-
-Estudiante de Ingeniería en Sistemas de Información con enfoque en el desarrollo frontend y diseño web. Poseo una sólida base técnica en programación, infraestructura de redes y virtualización, con capacidad analítica para resolver problemas complejos y experiencia en entornos competitivos de alta presión. Especializada en crear interfaces web responsivas y soluciones tecnológicas integrales.
+Passionate **Frontend Developer** and Systems Information Engineering student at UIDE. I specialize in designing and building beautiful, intuitive, and responsive web interfaces. With a strong technical background in network infrastructure and systems, I combine creative web design with the precision and logic of engineering to deliver complete technological solutions.
 
 ---
 
-### Technical Specializations
+### 🎀 Technical Specializations
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,go,java,aws,linux,mysql,git,github,figma,powershell&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,linux,aws,mysql,git,github,figma&theme=light&perline=12" />
   </a>
 </p>
 
 ---
 
-### Education
+### 🎓 Education
 
 **International University of Ecuador (UIDE)**
-Bachelor of Science in Computer Systems Engineering (4to semestre)
+*Bachelor of Science in Computer Systems Engineering*
 
-**Key Academic Achievements:**
-• Competidora en desafío global de programación IEEEXtreme 19.0 (24 horas)
-• Análisis Técnico e Investigación: Estudio de vulnerabilidades en middleware XFS (ATM) y evaluación de herramientas IDS (Wazuh y Zeek)
-• Múltiples certificaciones en desarrollo web, infraestructura cloud y sistemas operativos
-
----
-
-### Professional Experience
-
-**Desarrolladora | App de automatización de PDFs**
-*2024 - Present*
-• Desarrollo de aplicación comercial para la automatización de flujos de trabajo.
-• Manipulación y procesamiento masivo de archivos PDF para optimizar la gestión documental y exportación de datos.
-
-**Desarrolladora Full-Stack | Aplicación Multimedia**
-*2024 - Present*
-• Creación de una arquitectura web integral.
-• Implementación de SQLModel para persistencia de datos.
-• Integración de AWS S3 para escalabilidad de archivos y almacenamiento en la nube.
-
-**Analista de Infraestructura | Redes y Sistemas**
-*2024 - Present*
-• Configuración de entornos de alta disponibilidad (DC02).
-• Segmentación de redes (VLANs) y optimización de protocolos (OSPF, STP, EtherChannel).
-• Despliegue de infraestructura utilizando AlmaLinux firewalls y Mikrotik routers.
+**Key Academic Highlights:**
+* Global competitor in the IEEEXtreme 19.0 programming hackathon (24-hour challenge).
+* Multiple certifications: AWS (Costs, VPC, IAM), Microsoft Active Directory, and Linux Essentials.
+* Advanced English proficiency (A2+ level in progress).
 
 ---
 
-### Technical Proficiencies
+### 💻 Professional Experience & Projects
 
-**Frontend:** HTML5, CSS3, JavaScript, React
-**Backend & Languages:** Python, Go, Java
-**Systems & Networks:** Active Directory (AD DS), Firewalls, Linux, Mikrotik (RouterOS), Redes Cisco
-**Cloud Architecture:** AWS (Costos, VPC, IAM)
-**Tools & Databases:** Git, GitHub, MySQL, SQLModel
-**Languages:** Español (Nativo), Inglés (A2+ en curso)
+**Lead Developer | Corporate PDF Automation App**
+* Designed and developed a commercial application for a foreign trade company.
+* Automated massive document workflows and data extraction processes, significantly optimizing client reporting times.
+
+**Security Researcher | Active Immunity System (Zeek IDS)**
+* Authored technical research on designing resilient architectures against ATM jackpotting.
+* Configured and evaluated network monitoring tools to implement Zero Trust environments.
 
 ---
 
-### Notable Projects
+### 🛠️ Technical Proficiencies
 
-• **App de automatización de PDFs:** (Pon tu link aquí)
-• **Aplicación Multimedia Full-Stack:** (Pon tu link aquí)
-• **Diseño Sistema Inmunidad Activa (Zeek IDS):** Investigación y mitigación ATM jackpotting.
+* **Frontend & Design:** HTML5, CSS3, JavaScript, React, UI/UX Principles.
+* **Backend & Languages:** Python, Java, SQL.
+* **Systems & Networks:** Linux, Active Directory, Firewalls, Mikrotik routers.
+* **Cloud & Tools:** AWS, Git, GitHub.
+
+---
+
+### 🐍 GitHub Contributions
+
+<p align="center">
+  <!-- Aquí está el gusanito. Necesitarás configurar un GitHub Action para que funcione en tu repo -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kattysirel/Kattysirel/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kattysirel/Kattysirel/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kattysirel/Kattysirel/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+### ✨ GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kattysirel&show_icons=true&title_color=ff69b4&icon_color=ff1493&text_color=555555&bg_color=ffe4e1&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kattysirel&layout=compact&title_color=ff69b4&text_color=555555&bg_color=ffe4e1&hide_border=true" />
+</p>
 
 <br>
 <p align="center">
-  <i>"Diseñando interfaces web modernas con la precisión y lógica de la ingeniería de sistemas."</i>
-</p>
-<br>
-
----
-
-<!-- Estadísticas de GitHub (Grilla de contribuciones y lenguajes) -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kattysirel&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kattysirel&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kattysirel&layout=compact&theme=dark&hide_border=true" />
+  <i>"Crafting modern web interfaces with a touch of magic and solid engineering."</i> 🎀
 </p>
